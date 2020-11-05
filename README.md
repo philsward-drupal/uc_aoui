@@ -14,6 +14,7 @@ Install in the usual sites/all/modules folder
 Settings can be found at:
 * Home » Administration » Store » Products » Attributes
 * /admin/store/products/attributes/aoui
+
 Note: The one setting to pay attention to is: "Autohide disabled options on the Option edit page". If you have a lot of attributes or options, having this enabled is really nice.
 
 ## USAGE
